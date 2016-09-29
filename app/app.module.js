@@ -25,8 +25,4 @@ var MyAppModule = (function () {
     return MyAppModule;
 }());
 exports.MyAppModule = MyAppModule;
-function test() {
-    console.log("asdf");
-    console.log("once more1");
-}
 //# sourceMappingURL=app.module.js.map
